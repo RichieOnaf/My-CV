@@ -22,3 +22,15 @@ h2 {
     width: 280px;
     color: rgb(92, 0, 18);
 }
+
+limit5 img{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
+}
+
+.icon{
+    cursor: pointer;
+    height: 2rem;
+}
